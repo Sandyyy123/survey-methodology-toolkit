@@ -1,0 +1,5 @@
+# Core toolkit runs on the Python 3.10+ standard library only -- no install needed.
+# Optional extras for extended analysis / notebooks:
+# statsmodels>=0.14   # power analysis, GLM-based weighting
+# pandas>=2.0         # tabular handling of survey exports
+# numpy>=1.24
